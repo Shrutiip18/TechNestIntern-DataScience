@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Data/Model files
+*.csv
+*.pkl
+*.h5
+*.sav
+*.zip
+
+# System/Editor files
+.DS_Store
+*.log
+.vscode/
+.idea/
